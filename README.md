@@ -1,5 +1,5 @@
 # Marketing & Advertising Data Science Portfolio
-### Soumya Nayak · MS Business Analytics, UT Austin
+### Soumya Nayak 
 
 A collection of end-to-end data science projects focused on marketing analytics,
 advertising measurement, and user behavior research.
