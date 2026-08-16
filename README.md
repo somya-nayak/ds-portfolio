@@ -12,7 +12,7 @@ advertising measurement, and user behavior research.
 **Domain:** Marketing  
 **Question:** Which customer groups exist, and what should we do differently for each?  
 **Methods:** RFM feature engineering · K-Means clustering · Segment profiling  
-→ | [Customer Segmentation](./customer-segmentation) | Marketing | Python, K-Means, RFM, Plotly | [View notebook](./marketing-ds-portfolio/customer-segmentation/notebooks/customer_segmentation.ipynb) | 
+→ | [Customer Segmentation](./customer-segmentation) | Marketing | Python, K-Means, RFM, Plotly | [View notebook](notebooks/customer_segmentation.ipynb) | 
 
 ---
 
