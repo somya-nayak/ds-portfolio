@@ -12,7 +12,7 @@ advertising measurement, and user behavior research.
 **Domain:** Marketing  
 **Question:** Which customer groups exist, and what should we do differently for each?  
 **Methods:** RFM feature engineering · K-Means clustering · Segment profiling  
-→ | [Customer Segmentation](marketing-ds-portfolio/customer-segmentation/notebooks/customer_segmentation.ipynb) | Marketing | Python, K-Means, RFM, Plotly | [View notebook](marketing-ds-portfolio/customer-segmentation/notebooks/customer_segmentation.ipynb) |
+| [Customer Segmentation](marketing-ds-portfolio/customer-segmentation/notebooks/customer_segmentation.ipynb) | Marketing | Python, K-Means, RFM, Plotly | [View notebook](marketing-ds-portfolio/customer-segmentation/notebooks/customer_segmentation.ipynb) |
 
 ---
 
@@ -20,7 +20,7 @@ advertising measurement, and user behavior research.
 **Domain:** Advertising  
 **Question:** Did the new ad variant drive a statistically meaningful lift in conversions?  
 **Methods:** Two-proportion z-test · Bayesian Beta-Binomial model · Streamlit dashboard  
-→ [View project](./ab-test-analysis) · [Live app](#) ← update after deployment
+[View project](./ab-test-analysis) · [Live app](#) ← update after deployment
 
 ---
 
@@ -28,7 +28,7 @@ advertising measurement, and user behavior research.
 **Domain:** User Behavior Research  
 **Question:** What do reviews reveal about disengagement, and can we predict who's at risk?  
 **Methods:** VADER sentiment · LDA topic modeling · Logistic regression  
-→ [View project](./sentiment-churn)
+[View project](./sentiment-churn)
 
 ---
 
